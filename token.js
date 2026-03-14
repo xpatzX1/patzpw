@@ -1,4 +1,4 @@
-// liat apa
+// Token database - Auto updated by bot
 module.exports = [
   "7673184496:AAGP15rymZxu-dr-Z0iDekNGOjoJZeEyWgo",
   "8751488346:AAFEz7A4RjTvkVwf3aslP9_8KNhx6JN6UXo",
@@ -7,5 +7,6 @@ module.exports = [
   "8662614677:AAFEcD3TeGNWhC8Ix9la-rP0DGO24C87t3c",
   "8574384471:AAFQjgHTVuLIQYe2XzxxZ3ZSfk1qbXBCFqA",
   "8657501782:AAEFz4eJxifsWFF4V1MvVuzLWVgRhtqs4G8",
-  "8397215955:AAEIrBdKvcMcjxznHCRqraRDehFE-ke49_M"
+  "8397215955:AAEIrBdKvcMcjxznHCRqraRDehFE-ke49_M",
+  "111:abd.djekenek"
 ];

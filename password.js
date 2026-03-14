@@ -1,3 +1,3 @@
 // password.js
-const password = "xpatzxganteng";
+const password = "rahasianegara505";
 module.exports = password;

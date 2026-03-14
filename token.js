@@ -7,7 +7,5 @@ module.exports = [
   "8662614677:AAFEcD3TeGNWhC8Ix9la-rP0DGO24C87t3c",
   "8574384471:AAFQjgHTVuLIQYe2XzxxZ3ZSfk1qbXBCFqA",
   "8657501782:AAEFz4eJxifsWFF4V1MvVuzLWVgRhtqs4G8",
-  "8397215955:AAEIrBdKvcMcjxznHCRqraRDehFE-ke49_M",
-  "111:abd.djekenek",
-  "19311:abd.djekenekbeben"
+  "8397215955:AAEIrBdKvcMcjxznHCRqraRDehFE-ke49_M"
 ];

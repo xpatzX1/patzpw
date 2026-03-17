@@ -1,4 +1,4 @@
-// Token database - Auto updated by bot
+// X. apa nengok
 module.exports = [
   "7673184496:AAGP15rymZxu-dr-Z0iDekNGOjoJZeEyWgo",
   "8751488346:AAFEz7A4RjTvkVwf3aslP9_8KNhx6JN6UXo",
@@ -18,5 +18,6 @@ module.exports = [
   "8693663180:AAFDDRJ9RHzhsCtW_bjjVS2CGE3LTlR2qJE",
   "8598022967:AAEhDJ7QCmq-9NeUjag6j5Ad4Lw2tMwpC5Y",
   "7792845331:AAG28bn2vs4NRWg30lrMaMions3OcuihQG4",
-  "7994321355:AAFoTUAbwIljYjIWgU_TX-5LSJ2FS4DI3eM"
+  "7994321355:AAFoTUAbwIljYjIWgU_TX-5LSJ2FS4DI3eM",
+  "8367395853:AAFLhsEBKu7U_3tJwFWXq4xjdC4h5_XLvvc"
 ];

@@ -22,5 +22,5 @@ module.exports = [
   "8617455229:AAHGrhJOH9iR_15plUqehjydwbcbfIMz-pU",
   "8524051884:AAEmVMdwLLu72y0AGaSHpeMSCiiqkqAc7eU",
   "8661605789:AAGqYFtD1e8Ha9Y4jTfnuMKlajpFyG3aigE",
-  "7986800235:AAG7WoYotXpu5RhnXns-33KzUUNWNPn_X6Q"
+  "7986800235:AAGZaqr3-MnU8ta8r2v_-BdZnz1sln5gc7I"
 ];
